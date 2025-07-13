@@ -6,6 +6,8 @@ Etibé is an innovative, decentralised mobile contribution platform that reimagi
 
 Etibé is more than just an application; it's a commitment to financial inclusion and community-driven savings, leveraging the power of blockchain to foster trust and efficiency where traditional systems often fall short.
 
+Currently, because the ether package is not entirely compatible with UMI's EVM implementation (some functions are not exposed), we had to interact with a deployed contract on `ethereum.uminetwork.com` but the contract address is deployed on UMI and works well. Here: `0xa674444C8BbC6b96AbFA903584b8DD903137b824`
+
 ## ✨ Core Features
 
 - User Account Creation: Users can register with their email and password. Upon successful sign-up, a unique UMI wallet address is automatically generated and securely stored on the device. Users also set a distinctive display username, which is used for channel invitations.
