@@ -1,0 +1,9 @@
+[submodule "etibe_contract"]
+	path = etibe_contract
+	url = git@github.com:dolphlabs/etibe_contract.git
+[submodule "etibe-backend"]
+	path = etibe-backend
+	url = git@github.com:dolphlabs/etibe-backend.git
+[submodule "etibe-android"]
+	path = etibe-android
+	url = git@github.com:dolphlabs/etibe-android.git
